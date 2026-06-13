@@ -1,0 +1,16 @@
+{
+  "name": "Hanif Abdurrohim Portfolio",
+  "short_name": "Hanif",
+  "description": "Software Engineer & Cybersecurity Professional Portfolio",
+  "start_url": "https://haniipp.space/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#d4a574",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
